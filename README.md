@@ -74,10 +74,5 @@ Compare and contrast the Perceptron and ADALINE algorithms for banknote classifi
 - Insights into the effectiveness of each model for the dataset.
 
 ---
-
-### Repository Structure:
-- Each project is contained in its respective folder with code, datasets, and documentation.
-- Visualizations and results are included where applicable.
-
 Feel free to explore each project and reach out with any questions or suggestions!
 
